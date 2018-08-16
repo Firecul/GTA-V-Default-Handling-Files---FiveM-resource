@@ -778,7 +778,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-    </Item> --B
+    </Item>
     <Item type="CHandlingData">
       <handlingName>BALLER2</handlingName>
       <fMass value="2200.000000" />
@@ -3591,7 +3591,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-    </Item> --C
+    </Item>
     <Item type="CHandlingData">
       <handlingName>CADDY2</handlingName>
       <fMass value="600.000000" />
@@ -5675,7 +5675,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-    </Item> --D
+    </Item>
     <Item type="CHandlingData">
       <handlingName>DLOADER</handlingName>
       <fMass value="2100.000000" />
@@ -7066,7 +7066,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-    </Item> --F
+    </Item>
     <Item type="CHandlingData">
       <handlingName>FACTION</handlingName>
       <fMass value="1200.000000" />
@@ -8437,7 +8437,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-    </Item> --G
+    </Item>
     <Item type="CHandlingData">
       <handlingName>GAUNTLET2</handlingName>
       <fMass value="1500.000000" />
@@ -9746,7 +9746,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-    </Item> --I
+    </Item>
     <Item type="CHandlingData">
       <handlingName>INFERNUS2</handlingName>
       <fMass value="1400.000000" />
@@ -11011,7 +11011,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-    </Item> --k
+    </Item>
     <Item type="CHandlingData">
       <handlingName>KHANJALI</handlingName>
       <fMass value="30000.000000" />
@@ -13648,7 +13648,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-    </Item> --P
+    </Item>
     <Item type="CHandlingData">
       <handlingName>PANTO</handlingName>
       <fMass value="800.000000" />
@@ -15679,7 +15679,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-    </Item> --R
+    </Item>
     <Item type="CHandlingData">
       <handlingName>RAIDEN</handlingName>
       <fMass value="2100.000000" />
@@ -17542,7 +17542,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-    </Item> --S
+    </Item>
     <Item type="CHandlingData">
       <handlingName>SABREGT2</handlingName>
       <fMass value="1300.000000" />
@@ -20535,7 +20535,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-    </Item> --t
+    </Item>
     <Item type="CHandlingData">
       <handlingName>TACO</handlingName>
       <fMass value="5500.000000" />
@@ -22879,7 +22879,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-    </Item> --U
+    </Item>
     <Item type="CHandlingData">
       <handlingName>UTILTRUC</handlingName>
       <fMass value="7500.000000" />
@@ -24327,7 +24327,7 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
-    </Item> --W
+    </Item>
     <Item type="CHandlingData">
       <handlingName>WASTELANDER</handlingName>
       <fMass value="7000.000000" />
