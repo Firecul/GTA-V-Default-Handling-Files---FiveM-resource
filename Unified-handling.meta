@@ -21697,7 +21697,7 @@
       </SubHandlingData>
     </Item>
     <Item type="CHandlingData">
-      <handlingName>TOETRUCK</handlingName>
+      <handlingName>TOWTRUCK</handlingName>
       <fMass value="5000.000000" />
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="80.000000" />
