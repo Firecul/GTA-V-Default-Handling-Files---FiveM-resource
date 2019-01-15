@@ -9,6 +9,7 @@ files {
 	'data/mpbattle-handling.meta',
 	'data/mpexecutive-handling.meta',
 	'data/mpchristmas2017-handling.meta',
+	'data/mpchristmas2018-handling.meta',
 	'data/mpgunrunning-handling.meta',
 	'data/mphalloween-handling.meta',
 	'data/mpheist-handling.meta',
@@ -44,6 +45,7 @@ data_file 'HANDLING_FILE' 'data/mpchristmas2-handling.meta'
 data_file 'HANDLING_FILE' 'data/mpbattle-handling.meta'
 data_file 'HANDLING_FILE' 'data/mpexecutive-handling.meta'
 data_file 'HANDLING_FILE' 'data/mpchristmas2017-handling.meta'
+data_file 'HANDLING_FILE' 'data/mpchristmas2018-handling.meta'
 data_file 'HANDLING_FILE' 'data/mpgunrunning-handling.meta'
 data_file 'HANDLING_FILE' 'data/mphalloween-handling.meta'
 data_file 'HANDLING_FILE' 'data/mpheist-handling.meta'
