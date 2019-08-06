@@ -23,6 +23,7 @@ files {
 	'data/mpspecialraces-handling.meta',
 	'data/mpstunt-handling.meta',
 	'data/mpvalentines2-handling.meta',
+	'data/mpvinewood-handling.meta',
 	'data/mpxmas_604490-handling.meta',
 	'data/update-handling.meta',
 	'data/common-handling.meta',
@@ -59,6 +60,7 @@ data_file 'HANDLING_FILE' 'data/mpsmuggler-handling.meta'
 data_file 'HANDLING_FILE' 'data/mpspecialraces-handling.meta'
 data_file 'HANDLING_FILE' 'data/mpstunt-handling.meta'
 data_file 'HANDLING_FILE' 'data/mpvalentines2-handling.meta'
+data_file 'HANDLING_FILE' 'data/mpvinewood-handling.meta'
 data_file 'HANDLING_FILE' 'data/mpxmas_604490-handling.meta'
 data_file 'HANDLING_FILE' 'data/update-handling.meta'
 data_file 'HANDLING_FILE' 'data/common-handling.meta'
