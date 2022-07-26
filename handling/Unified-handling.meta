@@ -4137,35 +4137,19 @@
 						<Item/>
 						<Item/>
 					</uWeaponHash>
-					<WeaponSeats content="int_array">
-						0 0 0
-					</WeaponSeats>
+					<WeaponSeats content="int_array">						0 0 0					</WeaponSeats>
 					<WeaponVehicleModType>
 						<Item>VMT_CHASSIS5</Item>
 						<Item/>
 						<Item/>
 					</WeaponVehicleModType>
-					<fTurretSpeed content="float_array">
-						0.000000 0.000000
-					</fTurretSpeed>
-					<fTurretPitchMin content="float_array">
-						0.000000 0.000000
-					</fTurretPitchMin>
-					<fTurretPitchMax content="float_array">
-						0.000000 0.000000
-					</fTurretPitchMax>
-					<fTurretCamPitchMin content="float_array">
-						0.000000 0.000000
-					</fTurretCamPitchMin>
-					<fTurretCamPitchMax content="float_array">
-						0.000000 0.000000
-					</fTurretCamPitchMax>
-					<fBulletVelocityForGravity content="float_array">
-						0.000000 0.000000
-					</fBulletVelocityForGravity>
-					<fTurretPitchForwardMin content="float_array">
-						0.000000 0.000000
-					</fTurretPitchForwardMin>
+					<fTurretSpeed content="float_array">						0.000000 0.000000					</fTurretSpeed>
+					<fTurretPitchMin content="float_array">						0.000000 0.000000					</fTurretPitchMin>
+					<fTurretPitchMax content="float_array">						0.000000 0.000000					</fTurretPitchMax>
+					<fTurretCamPitchMin content="float_array">						0.000000 0.000000					</fTurretCamPitchMin>
+					<fTurretCamPitchMax content="float_array">						0.000000 0.000000					</fTurretCamPitchMax>
+					<fBulletVelocityForGravity content="float_array">						0.000000 0.000000					</fBulletVelocityForGravity>
+					<fTurretPitchForwardMin content="float_array">						0.000000 0.000000					</fTurretPitchForwardMin>
 					<fUvAnimationMult value="0.000000"/>
 					<fMiscGadgetVar value="0.000000"/>
 					<fWheelImpactOffset value="0.000000"/>
@@ -5165,35 +5149,19 @@
 						<Item/>
 						<Item/>
 					</uWeaponHash>
-					<WeaponSeats content="int_array">
-						0 0 0
-					</WeaponSeats>
+					<WeaponSeats content="int_array">						0 0 0					</WeaponSeats>
 					<WeaponVehicleModType>
 						<Item>VMT_CHASSIS5</Item>
 						<Item/>
 						<Item/>
 					</WeaponVehicleModType>
-					<fTurretSpeed content="float_array">
-						0.000000 0.000000
-					</fTurretSpeed>
-					<fTurretPitchMin content="float_array">
-						0.000000 0.000000
-					</fTurretPitchMin>
-					<fTurretPitchMax content="float_array">
-						0.000000 0.000000
-					</fTurretPitchMax>
-					<fTurretCamPitchMin content="float_array">
-						0.000000 0.000000
-					</fTurretCamPitchMin>
-					<fTurretCamPitchMax content="float_array">
-						0.000000 0.000000
-					</fTurretCamPitchMax>
-					<fBulletVelocityForGravity content="float_array">
-						0.000000 0.000000
-					</fBulletVelocityForGravity>
-					<fTurretPitchForwardMin content="float_array">
-						0.000000 0.000000
-					</fTurretPitchForwardMin>
+					<fTurretSpeed content="float_array">						0.000000 0.000000					</fTurretSpeed>
+					<fTurretPitchMin content="float_array">						0.000000 0.000000					</fTurretPitchMin>
+					<fTurretPitchMax content="float_array">						0.000000 0.000000					</fTurretPitchMax>
+					<fTurretCamPitchMin content="float_array">						0.000000 0.000000					</fTurretCamPitchMin>
+					<fTurretCamPitchMax content="float_array">						0.000000 0.000000					</fTurretCamPitchMax>
+					<fBulletVelocityForGravity content="float_array">						0.000000 0.000000					</fBulletVelocityForGravity>
+					<fTurretPitchForwardMin content="float_array">						0.000000 0.000000					</fTurretPitchForwardMin>
 					<fUvAnimationMult value="0.000000"/>
 					<fMiscGadgetVar value="0.000000"/>
 					<fWheelImpactOffset value="0.000000"/>
@@ -7221,35 +7189,19 @@
 						<Item/>
 						<Item/>
 					</uWeaponHash>
-					<WeaponSeats content="int_array">
-						0 0 0
-					</WeaponSeats>
+					<WeaponSeats content="int_array">						0 0 0					</WeaponSeats>
 					<WeaponVehicleModType>
 						<Item>VMT_CHASSIS5</Item>
 						<Item/>
 						<Item/>
 					</WeaponVehicleModType>
-					<fTurretSpeed content="float_array">
-						0.000000 0.000000
-					</fTurretSpeed>
-					<fTurretPitchMin content="float_array">
-						0.000000 0.000000
-					</fTurretPitchMin>
-					<fTurretPitchMax content="float_array">
-						0.000000 0.000000
-					</fTurretPitchMax>
-					<fTurretCamPitchMin content="float_array">
-						0.000000 0.000000
-					</fTurretCamPitchMin>
-					<fTurretCamPitchMax content="float_array">
-						0.000000 0.000000
-					</fTurretCamPitchMax>
-					<fBulletVelocityForGravity content="float_array">
-						0.000000 0.000000
-					</fBulletVelocityForGravity>
-					<fTurretPitchForwardMin content="float_array">
-						0.000000 0.000000
-					</fTurretPitchForwardMin>
+					<fTurretSpeed content="float_array">						0.000000 0.000000					</fTurretSpeed>
+					<fTurretPitchMin content="float_array">						0.000000 0.000000					</fTurretPitchMin>
+					<fTurretPitchMax content="float_array">						0.000000 0.000000					</fTurretPitchMax>
+					<fTurretCamPitchMin content="float_array">						0.000000 0.000000					</fTurretCamPitchMin>
+					<fTurretCamPitchMax content="float_array">						0.000000 0.000000					</fTurretCamPitchMax>
+					<fBulletVelocityForGravity content="float_array">						0.000000 0.000000					</fBulletVelocityForGravity>
+					<fTurretPitchForwardMin content="float_array">						0.000000 0.000000					</fTurretPitchForwardMin>
 					<fUvAnimationMult value="0.000000"/>
 					<fMiscGadgetVar value="0.000000"/>
 					<fWheelImpactOffset value="0.000000"/>
@@ -11858,35 +11810,19 @@
 						<Item/>
 						<Item/>
 					</uWeaponHash>
-					<WeaponSeats content="int_array">
-						0 0 0
-					</WeaponSeats>
+					<WeaponSeats content="int_array">						0 0 0					</WeaponSeats>
 					<WeaponVehicleModType>
 						<Item>VMT_CHASSIS5</Item>
 						<Item/>
 						<Item/>
 					</WeaponVehicleModType>
-					<fTurretSpeed content="float_array">
-						0.000000 0.000000
-					</fTurretSpeed>
-					<fTurretPitchMin content="float_array">
-						0.000000 0.000000
-					</fTurretPitchMin>
-					<fTurretPitchMax content="float_array">
-						0.000000 0.000000
-					</fTurretPitchMax>
-					<fTurretCamPitchMin content="float_array">
-						0.000000 0.000000
-					</fTurretCamPitchMin>
-					<fTurretCamPitchMax content="float_array">
-						0.000000 0.000000
-					</fTurretCamPitchMax>
-					<fBulletVelocityForGravity content="float_array">
-						0.000000 0.000000
-					</fBulletVelocityForGravity>
-					<fTurretPitchForwardMin content="float_array">
-						0.000000 0.000000
-					</fTurretPitchForwardMin>
+					<fTurretSpeed content="float_array">						0.000000 0.000000					</fTurretSpeed>
+					<fTurretPitchMin content="float_array">						0.000000 0.000000					</fTurretPitchMin>
+					<fTurretPitchMax content="float_array">						0.000000 0.000000					</fTurretPitchMax>
+					<fTurretCamPitchMin content="float_array">						0.000000 0.000000					</fTurretCamPitchMin>
+					<fTurretCamPitchMax content="float_array">						0.000000 0.000000					</fTurretCamPitchMax>
+					<fBulletVelocityForGravity content="float_array">						0.000000 0.000000					</fBulletVelocityForGravity>
+					<fTurretPitchForwardMin content="float_array">						0.000000 0.000000					</fTurretPitchForwardMin>
 					<fUvAnimationMult value="0.000000"/>
 					<fMiscGadgetVar value="0.000000"/>
 					<fWheelImpactOffset value="0.000000"/>
@@ -14999,35 +14935,19 @@
 						<Item/>
 						<Item/>
 					</uWeaponHash>
-					<WeaponSeats content="int_array">
-						0 0 0
-					</WeaponSeats>
+					<WeaponSeats content="int_array">						0 0 0					</WeaponSeats>
 					<WeaponVehicleModType>
 						<Item>VMT_CHASSIS5</Item>
 						<Item/>
 						<Item/>
 					</WeaponVehicleModType>
-					<fTurretSpeed content="float_array">
-						0.000000 0.000000
-					</fTurretSpeed>
-					<fTurretPitchMin content="float_array">
-						0.000000 0.000000
-					</fTurretPitchMin>
-					<fTurretPitchMax content="float_array">
-						0.000000 0.000000
-					</fTurretPitchMax>
-					<fTurretCamPitchMin content="float_array">
-						0.000000 0.000000
-					</fTurretCamPitchMin>
-					<fTurretCamPitchMax content="float_array">
-						0.000000 0.000000
-					</fTurretCamPitchMax>
-					<fBulletVelocityForGravity content="float_array">
-						0.000000 0.000000
-					</fBulletVelocityForGravity>
-					<fTurretPitchForwardMin content="float_array">
-						0.000000 0.000000
-					</fTurretPitchForwardMin>
+					<fTurretSpeed content="float_array">						0.000000 0.000000					</fTurretSpeed>
+					<fTurretPitchMin content="float_array">						0.000000 0.000000					</fTurretPitchMin>
+					<fTurretPitchMax content="float_array">						0.000000 0.000000					</fTurretPitchMax>
+					<fTurretCamPitchMin content="float_array">						0.000000 0.000000					</fTurretCamPitchMin>
+					<fTurretCamPitchMax content="float_array">						0.000000 0.000000					</fTurretCamPitchMax>
+					<fBulletVelocityForGravity content="float_array">						0.000000 0.000000					</fBulletVelocityForGravity>
+					<fTurretPitchForwardMin content="float_array">						0.000000 0.000000					</fTurretPitchForwardMin>
 					<fUvAnimationMult value="0.000000"/>
 					<fMiscGadgetVar value="0.000000"/>
 					<fWheelImpactOffset value="0.000000"/>
@@ -19431,35 +19351,19 @@
 						<Item/>
 						<Item/>
 					</uWeaponHash>
-					<WeaponSeats content="int_array">
-						0 0 0
-					</WeaponSeats>
+					<WeaponSeats content="int_array">						0 0 0					</WeaponSeats>
 					<WeaponVehicleModType>
 						<Item>VMT_CHASSIS5</Item>
 						<Item/>
 						<Item/>
 					</WeaponVehicleModType>
-					<fTurretSpeed content="float_array">
-						0.000000 0.000000
-					</fTurretSpeed>
-					<fTurretPitchMin content="float_array">
-						0.000000 0.000000
-					</fTurretPitchMin>
-					<fTurretPitchMax content="float_array">
-						0.000000 0.000000
-					</fTurretPitchMax>
-					<fTurretCamPitchMin content="float_array">
-						0.000000 0.000000
-					</fTurretCamPitchMin>
-					<fTurretCamPitchMax content="float_array">
-						0.000000 0.000000
-					</fTurretCamPitchMax>
-					<fBulletVelocityForGravity content="float_array">
-						0.000000 0.000000
-					</fBulletVelocityForGravity>
-					<fTurretPitchForwardMin content="float_array">
-						0.000000 0.000000
-					</fTurretPitchForwardMin>
+					<fTurretSpeed content="float_array">						0.000000 0.000000					</fTurretSpeed>
+					<fTurretPitchMin content="float_array">						0.000000 0.000000					</fTurretPitchMin>
+					<fTurretPitchMax content="float_array">						0.000000 0.000000					</fTurretPitchMax>
+					<fTurretCamPitchMin content="float_array">						0.000000 0.000000					</fTurretCamPitchMin>
+					<fTurretCamPitchMax content="float_array">						0.000000 0.000000					</fTurretCamPitchMax>
+					<fBulletVelocityForGravity content="float_array">						0.000000 0.000000					</fBulletVelocityForGravity>
+					<fTurretPitchForwardMin content="float_array">						0.000000 0.000000					</fTurretPitchForwardMin>
 					<fUvAnimationMult value="0.000000"/>
 					<fMiscGadgetVar value="0.000000"/>
 					<fWheelImpactOffset value="0.000000"/>
