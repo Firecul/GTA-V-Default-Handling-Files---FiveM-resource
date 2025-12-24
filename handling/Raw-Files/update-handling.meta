@@ -705,6 +705,29 @@
           <fBackEndPopUpCarImpulseMult value="0.100000" />
           <fBackEndPopUpBuildingImpulseMult value="0.030000" />
           <fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+		  <strAdvancedFlags>20000000</strAdvancedFlags>
+          <AdvancedData>
+            <Item type="CAdvancedData">
+              <Slot value="20"/>
+              <Index value="0"/>
+              <Value value="0.13"/>
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="20"/>
+              <Index value="1"/>
+              <Value value="0.16"/>
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="20"/> 
+              <Index value="2"/> 
+              <Value value="0.20"/>
+            </Item>
+			<Item type="CAdvancedData">
+              <Slot value="22"/>
+              <Index value="0"/>
+              <Value value="19"/>
+            </Item>
+          </AdvancedData>
         </Item>
         <Item type="NULL" />
         <Item type="NULL" />
@@ -8132,6 +8155,29 @@
           <fBackEndPopUpCarImpulseMult value="0.100000" />
           <fBackEndPopUpBuildingImpulseMult value="0.030000" />
           <fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+		  <strAdvancedFlags>20000000</strAdvancedFlags>
+          <AdvancedData>
+            <Item type="CAdvancedData">
+              <Slot value="20"/>
+              <Index value="0"/>
+              <Value value="0.11"/>
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="20"/>
+              <Index value="1"/>
+              <Value value="0.13"/>
+            </Item>
+            <Item type="CAdvancedData">
+              <Slot value="20"/> 
+              <Index value="2"/> 
+              <Value value="0.15"/>
+            </Item>
+			<Item type="CAdvancedData">
+              <Slot value="22"/>
+              <Index value="0"/>
+              <Value value="14"/>
+            </Item>
+          </AdvancedData>
         </Item>
         <Item type="NULL" />
         <Item type="NULL" />
